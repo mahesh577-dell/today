@@ -2,6 +2,6 @@ public class login
 {
 	public static void main(String args[])
 	{
-		a=20;
+		a=30;
 	}
 }
